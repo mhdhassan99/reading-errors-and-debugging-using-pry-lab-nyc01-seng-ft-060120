@@ -11,3 +11,4 @@ def play_game(player2)
 end
 
 
+start_game(john, hass)
